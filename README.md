@@ -45,7 +45,7 @@ ex. [@umflhero](https://umfhero.com)
 
 * 0.2
     * Various bug fixes and optimizations
-    * See [commit change](https://github.com/umfhero/BlackPortfolio/pulse) or See [release history]()
+    * See [commit change](https://github.com/umfhero/BlackPortfolio/pulse) or See [release history](https://github.com/umfhero/BlackPortfolio/commits/main/)
 * 0.1
     * Initial Release
 
