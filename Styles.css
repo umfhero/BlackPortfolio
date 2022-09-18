@@ -234,10 +234,10 @@
   }
   
   .main__content h2 {
-    font-size: 4rem;
+    font-size: 3rem;
     margin-top: 10px;
     background-color: #141414;
-    background-image: linear-gradient(-20deg, #503D3A 60%, #276345 100%);
+    background-image: linear-gradient(-20deg, #3a4c50 60%, #4b8a6c 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -415,7 +415,7 @@
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.9) 100%
       ),
-      url('/images/pic2.jpg');
+      url('/images/vpn.jpg');
   }
 
   .services__card:nth-child(3) {
@@ -424,7 +424,7 @@
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.9) 100%
       ),
-      url('/images/pic2.jpg');
+      url('/images/apple-airpods-max-listening-experience.jpg');
   }
 
   .services__card:nth-child(4) {
@@ -433,7 +433,7 @@
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.9) 100%
       ),
-      url('/images/pic2.jpg');
+      url('/images/Stocks.jpg');
   }
 
   .services__card:nth-child(5) {
