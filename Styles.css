@@ -23,7 +23,7 @@
     height: 80px;
     z-index: 1;
     width: 100%;
-    max-width: 1300px;
+    max-width: 15000px;
     margin-right: auto;
     margin-left: auto;
     padding-right: 50px;
@@ -83,12 +83,12 @@
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 10px 0px;
     height: 100%;
-    width: 100%;
+    width: 80%;
     border: none;
     outline: none;
-    border-radius: 4px;
+    border-radius: 5px;
     background: #10B060;
     color: #fff;
   }
@@ -125,10 +125,11 @@
       transition: all 0.5s ease;
       height: 50vh;
       z-index: -1;
+      background: white;
     }
   
     .navbar__menu.active {
-      background: #131313;
+      background: #10B060;
       top: 100%;
       opacity: 1;
       transition: all 0.5s ease;
