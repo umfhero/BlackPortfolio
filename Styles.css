@@ -220,15 +220,15 @@
 
   .main__containerx {
     display: grid;
-    grid-template-columns: 1fr 7fr;
+    grid-template-columns: 3fr 7fr;
     align-items: center;
     justify-self: center;
-    margin: 3 auto;
-    height: 50vh;
+    margin: 1 auto;
+    height: 90vh;
     background-color: #141414;
     z-index: 1;
-    width: 50%;
-    max-width: 1300px;
+    width: 60%;
+    max-width: 1500px;
     padding-right: 50px;
     padding-left: 50px;
   }
@@ -281,6 +281,8 @@
     transition: all 0.2s;
     outline: none;
   }
+
+
   
   .main__btn a {
     position: relative;
